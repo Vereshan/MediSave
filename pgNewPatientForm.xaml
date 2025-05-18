@@ -1,0 +1,64 @@
+﻿<Page x:Class="Medisave.pgNewPatientForm"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Medisave"
+      mc:Ignorable="d"
+      Title="pgNewPatientForm" Height="528" Width="790">
+
+    <Grid Background="#FF87BFBD" Margin="0">
+        <ComboBox x:Name="cmbPrefix" HorizontalAlignment="Left" Margin="151,43,0,0" VerticalAlignment="Top" Width="180" FontFamily="Arial Nova Cond" SelectedIndex="0">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FFF0F0F0" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label x:Name="lblPrefix" Content="Prefix (Mr., Mrs., etc.) :" HorizontalAlignment="Left" Margin="20,41,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond"/>
+        <Label x:Name="lblFullName" Content="Name and Surname :" HorizontalAlignment="Left" Margin="25,82,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond"/>
+        <TextBox x:Name="txtFullName" HorizontalAlignment="Left" Margin="151,86,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="183" FontFamily="Arial Nova Cond"/>
+        <ComboBox x:Name="cmbSex" HorizontalAlignment="Left" Margin="151,164,0,0" VerticalAlignment="Top" Width="120" FontFamily="Arial Nova Cond" SelectedIndex="0">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Label x:Name="lblSex" Content="Sex :" HorizontalAlignment="Left" Margin="112,162,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond"/>
+        <DatePicker x:Name="dtpDateOfBirth" HorizontalAlignment="Left" Margin="151,203,0,0" VerticalAlignment="Top" Height="25" Width="160" SelectedDateFormat="Short" FontFamily="Arial Nova Cond"/>
+        <Label x:Name="lblDateOfBirth" Content="Date Of Birth :" HorizontalAlignment="Left" Margin="61,203,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond"/>
+        <Label x:Name="lblTelephoneNumber" Content="Tele No :" HorizontalAlignment="Left" Margin="90,124,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond"/>
+        <TextBox x:Name="txtTeleNo" HorizontalAlignment="Left" Margin="151,128,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185"  Cursor="Pen" FontFamily="Arial Nova Cond"/>
+        <TextBox x:Name="txtAddress" HorizontalAlignment="Left" Margin="151,247,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="245" Height="55" RenderTransformOrigin="0.5,0.5" FontFamily="Arial Nova Cond">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.638"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.88"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label x:Name="lblAddress" Content="Address :" HorizontalAlignment="Left" Margin="88,244,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond"/>
+        <Label x:Name="lbNotes" Content="Notes :" HorizontalAlignment="Left" Margin="101,322,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond"/>
+        <TextBox x:Name="txtNotes" HorizontalAlignment="Center" Height="113" Margin="0,357,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="642" FontFamily="Arial Nova Cond"/>
+        <Label x:Name="lblPatientInfo" Content="Patient Information: " HorizontalAlignment="Left" Margin="93,10,0,0" VerticalAlignment="Top" FontSize="18" FontFamily="Arial Nova Cond"/>
+        <Rectangle HorizontalAlignment="Left" Height="298" Margin="409,5,0,0" Stroke="Black" VerticalAlignment="Top" Width="347" Fill="White"/>
+        <Label x:Name="lblMedicalAidinfor" Content="Medical Aid Information:" HorizontalAlignment="Left" Margin="481,10,0,0" VerticalAlignment="Top" FontFamily="Arial Nova Cond" FontSize="18"/>
+        <Label x:Name="lblMedicalAid" Content="Medical Aid :" HorizontalAlignment="Left" Margin="434,40,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMedicalAid" HorizontalAlignment="Left" Margin="517,44,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170" Background="#FF87BFBD"/>
+        <Label x:Name="lblOccupation_" Content="Occupation :" HorizontalAlignment="Left" Margin="436,81,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.074,-0.086"/>
+        <Label x:Name="lblEmployer" Content="Employer :" HorizontalAlignment="Left" Margin="447,123,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblAllergies" Content="Allergies :" HorizontalAlignment="Left" Margin="451,161,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblSpecialFeatures" Content="Special Features :" HorizontalAlignment="Left" Margin="411,203,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtOccupation" HorizontalAlignment="Left" Margin="517,85,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Background="#FF87BFBD"/>
+        <TextBox x:Name="txtEmployer" HorizontalAlignment="Left" Margin="517,127,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Background="#FF87BFBD"/>
+        <TextBox x:Name="txtAllergies" HorizontalAlignment="Left" Margin="517,166,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="170" Height="30" Background="#FF87BFBD"/>
+        <TextBox x:Name="txtSpecialFeatures" HorizontalAlignment="Left" Margin="517,211,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="167" Height="46" Background="#FF87BFBD"/>
+        <Button x:Name="btnSubmit" Content="SUBMIT" HorizontalAlignment="Left" Margin="145,479,0,0" VerticalAlignment="Top" Width="241" Height="34" Click="btnSubmit_Click"/>
+        <Button x:Name="btnClear" Content="CLEAR" HorizontalAlignment="Left" Margin="412,479,0,0" VerticalAlignment="Top" Width="241" Height="34"/>
+    </Grid>
+</Page>
