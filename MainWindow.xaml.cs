@@ -50,5 +50,18 @@ namespace Medisave
                 MessageBox.Show("Failed to connect to database. Please check your connection settings.", "Connection Error");
             }
         }
+
+        private void btnViewAllPatients_Click(object sender, RoutedEventArgs e)
+        {
+            
+                NavigationWindow navWindow = new NavigationWindow
+                {
+                    Width = 900,  // Set preferred width
+                    Height = 600, // Set preferred height
+                    ResizeMode = ResizeMode.CanMinimize // Prevent excessive resizing
+                };
+                navWindow.Navigate(new pgViewPatients());
+                navWindow.Show();
+            }
     }
 }

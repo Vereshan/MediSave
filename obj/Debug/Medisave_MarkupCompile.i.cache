@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\veron\Desktop\Medisave\Medisave\App.xaml
-2-1362415709
+3202157375
 
-10-985197549
+11-1498732053
 58-1780161987
-MainWindow.xaml;pgNewPatientForm.xaml;
+MainWindow.xaml;pgNewPatientForm.xaml;pgViewPatients.xaml;
 
-False
+True
 

@@ -8,5 +8,6 @@
         Title="MainWindow" Height="446" Width="737">
     <Grid HorizontalAlignment="Center" Height="432" Margin="0,-3,0,0" VerticalAlignment="Top" Width="708">
         <Button x:Name="btnAddNewPatient" Content="Add New Patient" HorizontalAlignment="Left" Margin="37,94,0,0" VerticalAlignment="Top" Height="85" Width="134" Click="btnAddNewPatient_Click"/>
+        <Button x:Name="btnViewAllPatients" Content="View All Patients" HorizontalAlignment="Left" Margin="216,96,0,0" VerticalAlignment="Top" Height="85" Width="134" Click="btnViewAllPatients_Click"/>
     </Grid>
 </Window>

@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|c:\\users\\veron\\desktop\\medisave\\medisave\\pgnewpatientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:pgnewpatientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgnewpatientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:pgnewpatientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|c:\\users\\veron\\desktop\\medisave\\medisave\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|c:\\users\\veron\\desktop\\medisave\\medisave\\pgviewpatients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:pgviewpatients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|c:\\users\\veron\\desktop\\medisave\\medisave\\medical_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:medical_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|c:\\users\\veron\\desktop\\medisave\\medisave\\coreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:coreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|c:\\users\\veron\\desktop\\medisave\\medisave\\pgnewpatientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:pgnewpatientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\coreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:coreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|c:\\users\\veron\\desktop\\medisave\\medisave\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgnewpatientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:pgnewpatientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\medical_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|solutionrelative:medical_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13E1684E-9129-4389-A1FF-CF20A465DF72}|Medisave.csproj|C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,84 +110,61 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "pgNewPatientForm.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgNewPatientForm.xaml.cs",
-              "RelativeDocumentMoniker": "pgNewPatientForm.xaml.cs",
-              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgNewPatientForm.xaml.cs",
-              "RelativeToolTip": "pgNewPatientForm.xaml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwEUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:01:36.443Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Medical_Info.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\Medical_Info.cs",
-              "RelativeDocumentMoniker": "Medical_Info.cs",
-              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\Medical_Info.cs",
-              "RelativeToolTip": "Medical_Info.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:57:58.164Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-16T19:12:27.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CoreInfo.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\CoreInfo.cs",
-              "RelativeDocumentMoniker": "CoreInfo.cs",
-              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\CoreInfo.cs",
-              "RelativeToolTip": "CoreInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:57:41.641Z",
+              "DocumentIndex": 1,
+              "Title": "pgViewPatients.xaml",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgViewPatients.xaml",
+              "RelativeDocumentMoniker": "pgViewPatients.xaml",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgViewPatients.xaml*",
+              "RelativeToolTip": "pgViewPatients.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T06:45:01.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-05-17T10:31:51.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DatabaseHelper.cs",
-              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\DatabaseHelper.cs",
-              "RelativeDocumentMoniker": "DatabaseHelper.cs",
-              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\DatabaseHelper.cs",
-              "RelativeToolTip": "DatabaseHelper.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CoreInfo.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\CoreInfo.cs",
+              "RelativeDocumentMoniker": "CoreInfo.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\CoreInfo.cs",
+              "RelativeToolTip": "CoreInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:18:14.515Z",
+              "WhenOpened": "2025-05-17T10:57:41.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "pgNewPatientForm.xaml",
               "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgNewPatientForm.xaml",
               "RelativeDocumentMoniker": "pgNewPatientForm.xaml",
@@ -194,8 +175,40 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pgNewPatientForm.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgNewPatientForm.xaml.cs",
+              "RelativeDocumentMoniker": "pgNewPatientForm.xaml.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\pgNewPatientForm.xaml.cs",
+              "RelativeToolTip": "pgNewPatientForm.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAEUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:01:36.443Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Medical_Info.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\Medical_Info.cs",
+              "RelativeDocumentMoniker": "Medical_Info.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\Medical_Info.cs",
+              "RelativeToolTip": "Medical_Info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:57:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -208,24 +221,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-16T19:12:27.222Z",
-              "EditorCaption": ""
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\DatabaseHelper.cs",
+              "RelativeToolTip": "DatabaseHelper.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:18:14.515Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\veron\\Desktop\\Medisave\\Medisave\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwDoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T19:12:19.194Z",
               "EditorCaption": ""

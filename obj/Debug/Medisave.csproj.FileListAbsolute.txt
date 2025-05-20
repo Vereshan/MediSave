@@ -103,3 +103,5 @@ C:\Users\veron\Desktop\Medisave\Medisave\bin\Debug\tr\Microsoft.Data.SqlClient.r
 C:\Users\veron\Desktop\Medisave\Medisave\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\veron\Desktop\Medisave\Medisave\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\veron\Desktop\Medisave\Medisave\obj\Debug\Medisave.csproj.Up2Date
+C:\Users\veron\Desktop\Medisave\Medisave\obj\Debug\pgViewPatients.g.cs
+C:\Users\veron\Desktop\Medisave\Medisave\obj\Debug\pgViewPatients.baml
